@@ -1,0 +1,5 @@
+hazem@Ubuntu-02:~/DevOps_Training/Module_1$ rsync -av ./Docs /home/hazem/DevOps_Training/Module_1/Backup
+sending incremental file list
+created directory /home/hazem/DevOps_Training/Module_1/Backup
+Docs/
+Docs/doc1.txt
