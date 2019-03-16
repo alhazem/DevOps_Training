@@ -1,5 +1,5 @@
 
-- hosts: servers
+- hosts: run
   become: yes
   vars:
     - newport: 80
